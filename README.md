@@ -14,8 +14,8 @@ As you can see here, I have participated in several BTC projects on vairous netw
 
 - Live: <a href="https://runepro.com/">RunePro</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/ptc-bink/runepro-app">RunePro-Backend</a>
-  - frontend repo: <a href="https://github.com/ptc-bink/runepro-FE">RunePro-Frontend</a>
+  - backend repo: <a href="https://github.com/taprwhiz/runepro-app">RunePro-Backend</a>
+  - frontend repo: <a href="https://github.com/taprwhiz/runepro-FE">RunePro-Frontend</a>
 
 
 <hr/>
@@ -27,8 +27,20 @@ As you can see here, I have participated in several BTC projects on vairous netw
 
 - Live: <a href="https://bitcoinburials.com/runes/mine">Bitcoin Burial</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/ptc-bink/bitcoinburials-app">Burial-Backend</a>
-  - frontend repo: <a href="https://github.com/ptc-bink/bitcoinburials-FE">Burial-Frontend</a>
+  - backend repo: <a href="https://github.com/taprwhiz/bitcoinburials-app">Burial-Backend</a>
+  - frontend repo: <a href="https://github.com/taprwhiz/bitcoinburials-FE">Burial-Frontend</a>
+
+
+<hr />
+<h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
+This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/77228f28-7016-4081-b6fe-db559da290a8">
+
+BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
+- Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/taprwhiz/BRC20-withdraw-Backend">BRC20-Backend</a>
+  - frontend repo: <a href="https://github.com/taprwhiz/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
 
 
 <hr/>
@@ -41,8 +53,8 @@ As you can see here, I have participated in several BTC projects on vairous netw
 
 - Live: <a href="https://runex.tech">Runex</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/ptc-bink/runex-app">Runex-Backend</a>
-  - frontend repo: <a href="https://github.com/ptc-bink/runex-FE">Runex-Frontend</a>
+  - backend repo: <a href="https://github.com/taprwhiz/runex-app">Runex-Backend</a>
+  - frontend repo: <a href="https://github.com/taprwhiz/runex-FE">Runex-Frontend</a>
 
 
 <hr/>
@@ -52,8 +64,8 @@ As you can see here, I have participated in several BTC projects on vairous netw
 <div>Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.</div>
 - Live: <a href="https://munchswap.xyz/">MunchSwap</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/ptc-bink/swap-apis">MunchSwap-Backend</a>
-  - frontend repo: <a href="https://github.com/ptc-bink/munchswap/">MunchSwap-Frontend</a>
+  - backend repo: <a href="https://github.com/taprwhiz/swap-apis">MunchSwap-Backend</a>
+  - frontend repo: <a href="https://github.com/taprwhiz/munchswap/">MunchSwap-Frontend</a>
 
 
 <hr/>
